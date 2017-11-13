@@ -25,7 +25,7 @@ SECRET_KEY = '$9$pn1hpu6m@l3dn2d3=0sepi2(z=up0dlk^pny)5$f070b-0*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['wangyouyu.com', '47.96.21.150']
+ALLOWED_HOSTS = ['wangyouyu.com', '47.96.21.150','127.0.0.1', 'localhost']
 
 
 # Application definition
